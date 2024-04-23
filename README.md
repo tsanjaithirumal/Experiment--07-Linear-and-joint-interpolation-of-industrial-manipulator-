@@ -48,6 +48,7 @@ DART studio screen shots for linear interpolation
 
 DART studio screen shots for joint interpolation 
 
+![WhatsApp Image 2024-04-15 at 14 28 12_952007b2](https://github.com/EzhilsreeJ/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144870412/7c9debec-956b-49ee-a4f4-701db147473d)
 
 
 
@@ -58,9 +59,12 @@ DART studio screen shots for joint interpolation
 ### Robot movements 
 
 
+![WhatsApp Image 2024-04-15 at 14 28 13_8c899855](https://github.com/EzhilsreeJ/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144870412/45c182ff-b2a9-4a87-bc8f-896248196740)
 
 
 
+
+![WhatsApp Image 2024-04-15 at 14 28 13_d543ba23](https://github.com/EzhilsreeJ/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144870412/4029a276-5add-4b64-a9b0-dc659fa20d03)
 
 
 
@@ -71,3 +75,5 @@ DART studio screen shots for joint interpolation
 
 
 ### Results:  
+
+Thus the program for linear and joint interpolation of industrial manipulator has executed successfully.
